@@ -4,7 +4,7 @@
   <title><![CDATA[Testing of mobile applications]]></title>
   <link href="http://qa-topinen.xyz/atom.xml" rel="self"/>
   <link href="http://qa-topinen.xyz/"/>
-  <updated>2015-08-23T22:53:13+03:00</updated>
+  <updated>2015-08-23T22:59:13+03:00</updated>
   <id>http://qa-topinen.xyz/</id>
   <author>
     <name><![CDATA[Elvina]]></name>
@@ -18,10 +18,7 @@
     <link href="http://qa-topinen.xyz/blog/2015/08/23/zombie-ninjas-attack-a-survivors-retrospective/"/>
     <updated>2015-08-23T22:45:15+03:00</updated>
     <id>http://qa-topinen.xyz/blog/2015/08/23/zombie-ninjas-attack-a-survivors-retrospective</id>
-    <content type="html"><![CDATA[<h2>test test test text</h2>
-
-<p><img class="center" src="http://www.moviequotesandmore.com/image-files/avatar-6.jpg" title="" >
-<img class="left" src="http://qa-topinen.xyz/images/loading_pacman.gif" width="350" height="350" title="image" alt="images"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="http://www.moviequotesandmore.com/image-files/avatar-6.jpg" title="" ></p>
 ]]></content>
   </entry>
   
