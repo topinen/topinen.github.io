@@ -4,14 +4,23 @@
   <title><![CDATA[Testing of mobile applications]]></title>
   <link href="http://qa-topinen.xyz/atom.xml" rel="self"/>
   <link href="http://qa-topinen.xyz/"/>
-  <updated>2015-08-23T22:59:13+03:00</updated>
+  <updated>2015-08-23T23:29:28+03:00</updated>
   <id>http://qa-topinen.xyz/</id>
   <author>
     <name><![CDATA[Elvina]]></name>
-    
+    <email><![CDATA[hi@qa-topinen.xyz]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test for Mozi]]></title>
+    <link href="http://qa-topinen.xyz/blog/2015/08/23/test-for-mozi/"/>
+    <updated>2015-08-23T23:15:32+03:00</updated>
+    <id>http://qa-topinen.xyz/blog/2015/08/23/test-for-mozi</id>
+    <content type="html"><![CDATA[<h1>Hello word</h1>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
